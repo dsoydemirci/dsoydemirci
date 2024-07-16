@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=6000&pause=1000&color=3ddc84&center=true&vCenter=true&width=1333&lines=Welcome+to+my+Github+Profile+)](https://git.io/typing-svg)
 
 ## 🔸Who am I
-- I'm Doğukan Soydemirci, currently a fourth-year student studying Computer Engineering at Uludağ University.<br>
+- I'm Doğukan Soydemirci, currently working as a systems analyst and software engineer at Karsan.<br>
 - I am a software lover.<br>
 - I am a person who loves crypto,technology and nature very much.<br>
 
